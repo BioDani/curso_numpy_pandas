@@ -1,1 +1,1 @@
-# curso_numpy_pandas
+# Curso numpy y pandas
